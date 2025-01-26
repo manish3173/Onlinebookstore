@@ -1,19 +1,23 @@
 # OnlineBookStore
 
-## Description
 A user-friendly Online Bookstore project where users can log in or register, view available books, select books along with their quantity, and purchase them. Users can also receive payment receipts after successful transactions. Administrators can manage books and maintain selling history.
 
 
+---
 
 ### Features
 - User registration and login
 - Browse and purchase books
 - Admin functionalities for managing books
 
+---
+
 ### Technologies Used
 - **Front-End:** HTML, CSS, JavaScript, Bootstrap
 - **Back-End:** Java (JDK 8+), JDBC, Servlet
 - **Database:** MySQL
+
+---
 
 ### Setup Instructions
 1. **Clone the repository:**
@@ -30,10 +34,18 @@ A user-friendly Online Bookstore project where users can log in or register, vie
 5. **Access the application:**
    - Open a web browser and navigate to `http://localhost:8083/onlinebookstore/` to view the application.
 
+
+
+---
+
 ### Contributing
 Feel free to submit issues and pull requests. Contributions are welcome!
+
+---
 
 ### Contact
 For questions or support, please contact:
 - **Y Manish Kumar**: [ymanishk602@gmail.com](mailto:ymanishk602@gmail.com)
+
+---
 
