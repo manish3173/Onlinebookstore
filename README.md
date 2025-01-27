@@ -34,16 +34,15 @@ A user-friendly Online Bookstore project where users can log in or register, vie
 
 
 
-
-## Contributing
-Feel free to submit issues and pull requests. Contributions are welcome!
-
 ## Contact
 For questions or support, please contact:
 
 - **Y Manish Kumar**: [ymanishk602@gmail.com](mailto:ymanishk602@gmail.com)
+  
+## Contributing
+Feel free to submit issues and pull requests. Contributions are welcome!
+
 
 ## License
 This project is licensed under the MIT License.
-
 
